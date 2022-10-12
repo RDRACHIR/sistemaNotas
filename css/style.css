@@ -1,0 +1,41 @@
+body {
+  padding: 15px;
+}
+
+h3 {
+  padding: 15px 0;
+}
+.nav-es {
+  margin: 5px;
+}
+
+.nav-es li {
+  margin: 2px;
+}
+
+.nav-es li a:hover {
+  background: #9aa0a6;
+}
+
+/* FORMULARIOS */
+h1 {
+  text-align: center;
+}
+
+.form-input {
+  width: 400px;
+  padding: 7px;
+  border: 1px solid #9aa0a6;
+  border-radius: 7px;
+  margin: 0 35%;
+}
+
+.form-input input {
+  width: 100%;
+}
+
+/* @media (min-width: 1075px) {
+  .form-input {
+    margin: 0 32%;
+  }
+} */
