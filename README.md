@@ -4,18 +4,21 @@ La siguiente aplicacion web es un sistema de registro de notas, usuarios, docent
 
 Cuneta con todas la funciones **CRUD**, con su conexxion a la DB, login y manejo de roles totalmente funcional, cuenta tambien con una interfaz sencilla para que sea facil de usar para el usuario.
 
-##VISTAS
+## VISTAS
 
-###Login
+### Login
+
 ![Login](/img/login.png)
 
-###Vista Administradores
+### Vista Administradores
+
 ![Administradores](/img/vistasAdministradores.png)
 
-###Vista Docentes
+### Vista Docentes
+
 ![Docentes](/img/vistaDocentes.png)
 
-###Vistas de Registro, Edicion y Eliminacion
+### Vistas de Registro, Edicion y Eliminacion
 
 ![Registro](/img/registroEstudiante.png)
 
